@@ -1,4 +1,3 @@
-Here is a complete `README.md` file for your project. You can copy and paste the text below into a file named `README.md` in your project's folder.
 
 -----
 
